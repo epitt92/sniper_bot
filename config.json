@@ -1,0 +1,16 @@
+{
+   "walletAddress": "0x4b85ab98155C20DD87450f3aeCC94183Df01CEbE",
+   "walletPrivateKey": "71da29f95463c2804cbdd78d28e25acd46fc31bcb6db46ec27cecfab79dccd70",
+   "pancakeSwapRouterAddress": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+   "amountToSpendPerSnipe": "0.0025",
+   "transactionRevertTimeSeconds": "100000",
+   "gasAmount": "300000",
+   "gasPrice": "50",
+   "bscScanAPIKey": "Z5QMF9V6CDFWTNNRU1JPFV45UYGMYCWZ1D",
+   "observeOnly": "False",
+   "checkSourceCode": "True",
+   "checkValidPancakeV2": "True",
+   "checkMintFunction": "True",
+   "checkHoneypot": "True",
+   "checkPancakeV1Router": "True"
+}

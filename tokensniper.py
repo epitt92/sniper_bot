@@ -9,7 +9,7 @@ import requests
 import time
 import os
 import sys
-import ctypes
+import ctypes 
 
 os.system("mode con: lines=32766")
 os.system("") #habilita colores de texto 

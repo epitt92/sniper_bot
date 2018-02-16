@@ -12,7 +12,7 @@ import sys
 import ctypes 
 
 os.system("mode con: lines=32766")
-os.system("") #habilita colores de texto 
+os.system("")
 
 class style(): #Classes de diferentes colores Class of different text colours - default is white
     BLACK = '\033[30m'
